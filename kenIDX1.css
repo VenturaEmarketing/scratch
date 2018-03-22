@@ -1,0 +1,203 @@
+#IDX-main {width: 100%;}
+#IDX-submitBtn, #IDX-formSubmit, #IDX-loginSubmit, #IDX-formReset, #IDX-resetBtn, #IDX-mortgageSubmit {
+    background: #62a5f5 none repeat scroll 0 0 !important;
+    border: 1px solid #62a5f5 !important;
+    border-radius: 5px;
+    box-shadow: none !important;
+    color: #ffffff !important;
+    padding: 10px 30px;
+    text-shadow: 1px 1px 0 #62a5f5 ;
+}
+#IDX-registration .IDX-btn {
+	padding:10px !important;
+}
+#IDX-search-row-content input {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #dedede !important;
+    box-shadow: 0 0 4px 0 rgba(221, 221, 221, 0.65) inset !important;
+    color: #000  !important;
+	font-weight: 400;
+    font-family: "Source Sans Pro",sans-serif !important;
+    font-size: 16px !important;
+    padding: 12px 14px !important;
+    width: auto !important;
+}
+.blog-idx-post input, .blog-idx-post textarea {
+    background: #fff !important;
+    box-shadow: 0 0 4px 0 rgba(221, 221, 221, 0.65) inset !important;
+    border: 1px solid #dedede !important;
+    color: #000  !important;
+	font-weight: 400;
+    font-family: "Source Sans Pro",sans-serif !important;
+    font-size: 16px !important;
+}
+textarea:focus, input:focus, select:focus{
+    outline: none !important;
+}
+span.select2-selection.select2-selection--single {
+	outline: none  !important;
+}
+.select2-drop-active {
+    border: 1px solid #62a5f5 !important;
+    border-top: none !important;
+}
+
+.select2-drop.select2-drop-above.select2-drop-active {
+    border-top:  1px solid #ce0218 !important; 
+}
+
+.select2-container-active .select2-choice, .select2-container-active .select2-choices {
+    border:  1px solid #ce0218 !important;
+    outline: none;
+    -webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+.blog-idx-post select {
+    border: 1px solid #dedede !important;
+    box-shadow: 0 0 4px 0 rgba(221, 221, 221, 0.65) inset !important;
+    color: #000  !important;
+	font-weight: 400;
+    font-family: "Source Sans Pro",sans-serif !important;
+    font-size: 16px !important;
+    padding: 12px 20px 12px 10px !important;
+    width: auto;
+}
+.blog-idx-post select option {
+	color: #000 !important;
+    font-weight: 400 !important;
+}
+.blog-idx-post select option:hover,.blog-idx-post select option:active,.blog-idx-post select option:focus, .select2-result:hover,.select2-result:active,.select2-result:focus,.select2-results .select2-highlighted {
+    background: #62a5f5 !important;
+    color: #fff !important;
+    font-weight: 400 !important;
+}
+.IDX-radio-inline {
+	color: #000 !important;
+    font-weight: 400 !important;
+}
+.select2-container-multi .select2-choices {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #dedede !important;
+    box-shadow: 0 0 4px 0 rgba(221, 221, 221, 0.65) inset !important;
+	min-height: 48px !important;
+}
+#IDX-formReset {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 26px;
+}
+.IDX-radio-inline {
+	padding-right:10px;
+}
+.blog-idx-post label {
+    color: #000 !important;
+    display: block !important;
+    font-family: "Source Sans Pro",sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    margin: 16px 0 0 !important;
+}
+#IDX-resetBtn {
+	margin-right:10px !important;
+}
+#IDX-moreinfoContactForm #IDX-submitBtn, #IDX-moreinfoContactForm #IDX-resetBtn, #IDX-scheduleshowingContactForm #IDX-submitBtn, #IDX-scheduleshowingContactForm #IDX-resetBtn {
+    width: 48% !important;
+}
+#IDX-moreinfoContactForm #IDX-resetBtn, #IDX-scheduleshowingContactForm #IDX-resetBtn {
+    color: #fff !important;
+}
+.IDX-mortgageRow .IDX-mortgageMiddleCell input, .IDX-mortgageRow .IDX-mortgageRightCell select {
+    height: auto !important;
+    line-height: inherit !important;
+    margin: 0;
+    padding: 12px 14px !important;
+    width: 100%;
+}
+.IDX-mortgageMiddleCell {
+    height: auto !important;
+    width: auto !important;
+}
+.IDX-propertyInfoList li {
+	list-style:none;
+}
+.select2-choices input {
+    border: 0 none !important;
+	box-shadow: none !important;
+}
+#IDX-mortgageCalculatorContainer {
+    width: auto !important;
+}
+#IDX-propSubType-group #IDX-propSubType {
+    min-height: 100px;
+    width: auto;
+}
+#IDX-propSubType-group .IDX-selectableListLabel {
+    width: 100%;
+}
+#IDX-mapContainer {
+    width: 100%;
+}
+#IDX-boxLabel_waterfront .IDX-radioLabel {
+	float:left;
+	margin:1px 20px 14px 6px !important;
+}
+#IDX-boxLabel_waterfront .IDX-radioInput {
+	float:left;
+	margin:6px 0 0 0;
+}
+.IDX-wrapper-standard .IDX-radioLabel {
+	float:left;
+	margin:1px 20px 14px 6px !important;
+}
+.IDX-wrapper-standard .IDX-radioInput  {
+	float:left;
+	margin:6px 0 0 0;
+}
+#IDX-pt {
+	min-width:300px;
+}
+#IDX-hp-group,#IDX-lp-group {
+    top: -17px !important;
+}
+#IDX-hp-group .IDX-control-label,#IDX-lp-group .IDX-control-label{
+    color: #fff !important;
+}
+.IDX-page-basic #IDX-hp-group .IDX-control-label, .IDX-page-basic #IDX-lp-group .IDX-control-label{
+    color: #000 !important;
+}
+.IDX-control-group, #IDX-registration .IDX-control-group {
+    vertical-align: top;
+}
+.IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse, .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form {
+    border-color: #62a5f5 !important;
+}
+.IDX-wrapper-standard .IDX-navbar-default {
+    background-color: #ce0218 !important;
+    border-color: #62a5f5 !important;
+}
+.IDX-wrapper-standard .select2-container.select2-container-multi .select2-choices .select2-search-choice {
+    background-color: #62a5f5 !important;
+}
+.IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav > li > a:focus, .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav > li > a:hover {
+    background-color: #70b000 !important;
+    color: #fff;
+}
+.IDX-page-basic-search #IDX-formReset, .IDX-page-basic-search #IDX-formSubmit {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    line-height: 26px !important;
+    margin: 10px !important;
+    width: 48% !important;
+}
+.IDX-page-basic-search .IDX-advancedRange {
+    padding: 12px 14px !important;
+}
+.IDX-advancedPair {
+    clear: both;
+}
+#IDX-boxLabel_waterfront {
+    margin-bottom: 64px;
+}
+.IDX-wrapper-standard .IDX-control-group {
+    float: none;
+}
